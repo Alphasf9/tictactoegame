@@ -113,4 +113,16 @@ nav {
         grid-template-rows: repeat(3, 20vw);
         grid-template-columns: repeat(3, 20vw);
     }
+    
+    footer{
+        font-size: 1rem;
+    }
+}
+
+
+footer {
+    margin-left: 46%;
+    margin-top: 6%;
+    font-family: cursive;
+    font-size: 1.5rem;
 }
