@@ -47,9 +47,7 @@ Array.from(boxes).forEach(element => {
             if (!isgameover) {
                 document.getElementsByClassName("info")[0].innerText = "Turn for " + turn;
             }
-        }
-    });
-});
+wrong something here
 
 // Add event listener to reset button
 reset.addEventListener("click", () => {
